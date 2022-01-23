@@ -2,7 +2,7 @@
   "name": "react-movie-search",
   "version": "1.0.0",
   "description": "A Pen originally created on CodePen.io. URL: [https://codepen.io/Mustafa-Ispahani25/pen/MERMWG](https://codepen.io/Mustafa-Ispahani25/pen/MERMWG).",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
