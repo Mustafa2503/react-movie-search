@@ -58,7 +58,6 @@ React.createElement("form", { className: "search", onInput: event => props.onInp
 React.createElement("input", { type: "search", value: props.query, placeholder: props.placeholder }));
 
 
-
 Search.propTypes = {
   query: PropTypes.string.isRequired,
   onInput: PropTypes.func.isRequired,
